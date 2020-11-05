@@ -2,6 +2,7 @@ An OpenCV Project -
 Project name: " Hand Gesture"
 
 Steps for this program -
+
 1- Importing necessary libraries cv2, NumPy and math
 
 2-Now we apply gaussian blur to smoothing the image (it removes noise from image) and convert it into BGR ->HSV Image(Huge saturation value)
